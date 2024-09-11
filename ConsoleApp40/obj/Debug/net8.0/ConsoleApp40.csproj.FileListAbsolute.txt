@@ -1,0 +1,14 @@
+C:\Users\redmi\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\net8.0\ConsoleApp40.exe
+C:\Users\redmi\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\net8.0\ConsoleApp40.deps.json
+C:\Users\redmi\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\net8.0\ConsoleApp40.runtimeconfig.json
+C:\Users\redmi\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\net8.0\ConsoleApp40.dll
+C:\Users\redmi\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\net8.0\ConsoleApp40.pdb
+C:\Users\redmi\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net8.0\ConsoleApp40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redmi\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net8.0\ConsoleApp40.AssemblyInfoInputs.cache
+C:\Users\redmi\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net8.0\ConsoleApp40.AssemblyInfo.cs
+C:\Users\redmi\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net8.0\ConsoleApp40.csproj.CoreCompileInputs.cache
+C:\Users\redmi\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net8.0\ConsoleApp40.dll
+C:\Users\redmi\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net8.0\refint\ConsoleApp40.dll
+C:\Users\redmi\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net8.0\ConsoleApp40.pdb
+C:\Users\redmi\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net8.0\ConsoleApp40.genruntimeconfig.cache
+C:\Users\redmi\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net8.0\ref\ConsoleApp40.dll
